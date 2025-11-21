@@ -1,6 +1,5 @@
 import sys
 from pathlib import Path
-from src.maze import Maze
 from src.mazeRobot import MazeRobot
 
 
